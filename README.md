@@ -17,8 +17,10 @@
 - 📫 How to reach me: aliashfak178@gmail.com
 - 😄 Pronouns: Pronouns: I, you, he, it, they, this
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+- 
 
-
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ----
