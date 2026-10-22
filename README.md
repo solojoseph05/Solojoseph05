@@ -1,3 +1,6 @@
+Aquí tienes el `README.md` actualizado con tu portafolio en vivo integrado de forma prominente: en la cabecera principal con un botón de acceso directo, en la sección de resumen y al pie de página como llamado a la acción.
+
+```markdown
 <div align="center">
 
   <!-- Header Typing Effect -->
@@ -11,6 +14,13 @@
   <p align="center">
     <strong>Bridging telecommunications, full-stack software architectures, and applied artificial intelligence.</strong><br>
     Focused on building scalable, data-driven applications with resilient backend infrastructure.
+  </p>
+
+  <!-- Live Portfolio Highlight Badge -->
+  <p align="center">
+    <a href="https://portafoliojosephdominguez.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+    </a>
   </p>
 
   <!-- Contact & Verification Badges -->
@@ -27,6 +37,7 @@
 
 ### 👨‍💼 Executive Summary & Profile
 
+- 🌐 **Interactive Portfolio:** [portafoliojosephdominguez.netlify.app](https://portafoliojosephdominguez.netlify.app/)
 - 🎓 **Education:** 
   - **Master of Science in Artificial Intelligence** — *Universidad Tecmilenio* (In Progress)
   - **B.S. in Network and Telecommunications Engineering** (Graduated)
@@ -70,7 +81,7 @@
       </p>
       <p>
         <b>Tech Stack:</b> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code>, <code>Tailwind CSS</code><br>
-        🔗 <a href="https://github.com/solojoseph05">View Source Code & Demo</a>
+        🔗 <a href="https://portafoliojosephdominguez.netlify.app/">View Live Demo</a> | <a href="https://github.com/solojoseph05">Source Code</a>
       </p>
     </td>
     <td width="50%">
@@ -129,6 +140,9 @@
 
 I am open to **full-time software engineering roles**, **AI/ML engineer positions**, and **high-impact technical collaborations**.
 
+- 🌐 **Online Portfolio:** [portafoliojosephdominguez.netlify.app](https://portafoliojosephdominguez.netlify.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/joseph-mizraim-domínguez-rodríguez-1837b21a6](https://www.linkedin.com/in/joseph-mizraim-dom%C3%ADnguez-rodr%C3%ADguez-1837b21a6/)
 - ✉️ **Direct Email:** [josep_mizraim@hotmail.com](mailto:josep_mizraim@hotmail.com)
 - 📜 **Professional Credentials:** [Credly Profile](https://www.credly.com/earner/earned)
+
+```
