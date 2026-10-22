@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   <!-- Typing Header -->
@@ -144,5 +143,3 @@
   "email": "josep_mizraim@hotmail.com",
   "linkedin": "[https://linkedin.com/in/joseph-mizraim-domínguez-rodríguez-1837b21a6](https://linkedin.com/in/joseph-mizraim-domínguez-rodríguez-1837b21a6)"
 }
-
-```
